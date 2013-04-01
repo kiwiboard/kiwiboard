@@ -1,6 +1,4 @@
 #include "kiwiboard.h"
-#include "unistd.h"
-#include "pthread.h"
 
 
 void setup()
