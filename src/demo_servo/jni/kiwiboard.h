@@ -84,5 +84,6 @@ unsigned long micros();
 unsigned long millis();
 
 extern KiwiBoardSerial Serial;
+extern int LoopExit;
 
 #endif

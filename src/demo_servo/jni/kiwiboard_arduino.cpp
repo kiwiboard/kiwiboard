@@ -3,13 +3,12 @@
 
 void setup()
 {
+	LoopExit = 1;   //diffrent from Arduino. Set LoopExit = 1, the loop() will run once only
 	pinMode(GPIO5, OUTPUT);
 }
 
-// return:
-// 0: stop
-// !0: loop
-int loop()		
+
+void loop()		
 {
 	int i, m;
 	int a1 = 1000;
@@ -34,6 +33,4 @@ int loop()
 		}
 		delay(200);		
 	}	
-	
-	return 0;
 }

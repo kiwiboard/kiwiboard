@@ -8,7 +8,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := kiwiboard
+LOCAL_MODULE := kiwiboard_servo
 LOCAL_LDLIBS := -llog 
 LOCAL_LDFLAGS += $(LOCAL_PATH)\kiwiboard_lib.o
 LOCAL_SRC_FILES := \
