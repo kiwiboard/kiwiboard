@@ -1,0 +1,9 @@
+1. prebuilt Linux SD Image is in folder: kiwiboar_sd_image
+
+2. How to make a SD linux image: http://linux-sunxi.org/BSP
+   Necessary files are in folder: files
+
+3. Reference: http://linux-sunxi.org/Linux
+ 
+
+
