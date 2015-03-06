@@ -5,5 +5,5 @@
 
 3. Reference: http://linux-sunxi.org/Linux
  
-KiwiBoard
+ KiwiBoard
 
